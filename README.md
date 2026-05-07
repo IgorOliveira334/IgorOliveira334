@@ -13,19 +13,28 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 ### 🎨 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,ionic" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=ionic" />
 </p>
 
 ### ⚙️ Back-End & Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### 🛠️ Infraestrutura & Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
