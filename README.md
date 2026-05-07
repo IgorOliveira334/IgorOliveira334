@@ -12,44 +12,44 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 
 ### 🎨 Front-End
 
-<p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="70" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="70" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="70" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" width="70" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=angular" />
 </p>
 
 ### 📱 Mobile
 
-<p>
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" width="70" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ionic" />
 </p>
 
 ### ⚙️ Back-End
 
-<p>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="70" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="70" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### 🗄️ Banco de Dados
 
-<p>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="70" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 📊 Gerenciamento de Projetos
 
-<p>
-  <img src="https://cdn.simpleicons.org/github/181717" width="70" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ### 🛠️ Infraestrutura
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="70" />
-  <img src="https://skillicons.dev/icons?i=linux" width="70" />
-  <img src="https://skillicons.dev/icons?i=aws" width="70" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
