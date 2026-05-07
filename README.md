@@ -10,26 +10,23 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 
 ## 🚀 Tecnologias
 
-### Front-End
+### 🎨 Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge\&logo=ionic\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,ionic" />
+</p>
 
-### Back-End & Database
+### ⚙️ Back-End & Banco de Dados
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
+</p>
 
-### Infraestrutura & Ferramentas
+### 🛠️ Infraestrutura & Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
+</p>
 
 ---
 
