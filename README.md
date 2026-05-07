@@ -22,7 +22,7 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 ### 📱 Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ionic" width="70" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" width="70" />
 </p>
 
 ### ⚙️ Back-End
