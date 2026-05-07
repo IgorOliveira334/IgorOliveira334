@@ -1,10 +1,14 @@
-# Igor Oliveira
+<h1 align="center">Igor Oliveira</h1>
 
-## Full Stack Developer | Mobile Developer
+<h3 align="center">💻 Full Stack Developer | 📱 Mobile Developer</h3>
 
+<p align="center">
 Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Front-End, Back-End, Mobile, Infraestrutura e Gestão de Projetos.
+</p>
 
+<p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, desenvolvendo soluções modernas, escaláveis e focadas em boas práticas de desenvolvimento.
+</p>
 
 ---
 
@@ -13,28 +17,52 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 ### 🎨 Front-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" />
-  <img src="https://skillicons.dev/icons?i=js" height="70" />
-  <img src="https://skillicons.dev/icons?i=angular" height="70" />
-  <img src="https://skillicons.dev/icons?i=ionic" height="70" />
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="110" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="110" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="110" />
+  </a>
+  <a href="https://angular.dev">
+    <img src="https://skillicons.dev/icons?i=angular" height="110" />
+  </a>
+  <a href="https://ionicframework.com">
+    <img src="https://skillicons.dev/icons?i=ionic" height="110" />
+  </a>
 </p>
 
 ### ⚙️ Back-End & Banco de Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="70" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="70" />
+  <a href="https://www.php.net">
+    <img src="https://skillicons.dev/icons?i=php" height="110" />
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" height="110" />
+  </a>
+  <a href="https://firebase.google.com">
+    <img src="https://skillicons.dev/icons?i=firebase" height="110" />
+  </a>
 </p>
 
 ### 🛠️ Infraestrutura & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="70" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" />
-  <img src="https://skillicons.dev/icons?i=linux" height="70" />
-  <img src="https://skillicons.dev/icons?i=aws" height="70" />
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" height="110" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" height="110" />
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" height="110" />
+  </a>
+  <a href="https://aws.amazon.com">
+    <img src="https://skillicons.dev/icons?i=aws" height="110" />
+  </a>
 </p>
 
 ---
@@ -52,7 +80,7 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 
 ---
 
-## 🚀 Sobre Mim
+<h2 align="center">🚀 Sobre Mim</h2>
 
 💻 Desenvolvedor em formação com foco em desenvolvimento de software e soluções tecnológicas.
 
@@ -70,7 +98,7 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 
 ---
 
-## 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
 * Email: [igor.oliveira.7780@gmail.com](mailto:igor.oliveira.7780@gmail.com)
 * LinkedIn: [www.linkedin.com/in/igor-oliveira-15b949320](http://www.linkedin.com/in/igor-oliveira-15b949320)
