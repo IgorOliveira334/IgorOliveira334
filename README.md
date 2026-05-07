@@ -12,29 +12,29 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 
 ### 🎨 Front-End
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=angular" />
-  <img src="https://skillicons.dev/icons?i=ionic" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="70" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" />
+  <img src="https://skillicons.dev/icons?i=angular" height="70" />
+  <img src="https://skillicons.dev/icons?i=ionic" height="70" />
 </p>
 
 ### ⚙️ Back-End & Banco de Dados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="70" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="70" />
 </p>
 
 ### 🛠️ Infraestrutura & Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="70" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" />
+  <img src="https://skillicons.dev/icons?i=linux" height="70" />
+  <img src="https://skillicons.dev/icons?i=aws" height="70" />
 </p>
 
 ---
