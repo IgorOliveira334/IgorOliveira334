@@ -17,21 +17,39 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
   <img src="https://skillicons.dev/icons?i=css" width="70" />
   <img src="https://skillicons.dev/icons?i=js" width="70" />
   <img src="https://skillicons.dev/icons?i=angular" width="70" />
+</p>
+
+### 📱 Mobile
+
+<p>
   <img src="https://skillicons.dev/icons?i=ionic" width="70" />
 </p>
 
-### ⚙️ Back-End & Banco de Dados
+### ⚙️ Back-End
 
 <p>
-  <img src="http
+  <img src="https://skillicons.dev/icons?i=php" width="70" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="70" />
+</p>
 
-### 🛠️ Infraestrutura & Ferramentas
+### 🗄️ Banco de Dados
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="70" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" />
-  <img src="https://skillicons.dev/icons?i=linux" height="70" />
-  <img src="https://skillicons.dev/icons?i=aws" height="70" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" />
+</p>
+
+### 📊 Gerenciamento de Projetos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="70" />
+</p>
+
+### 🛠️ Infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="70" />
+  <img src="https://skillicons.dev/icons?i=linux" width="70" />
+  <img src="https://skillicons.dev/icons?i=aws" width="70" />
 </p>
 
 ---
