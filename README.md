@@ -19,10 +19,18 @@ Desenvolvedor focado em criação de aplicações modernas, responsivas e escal�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="65" />
 </p>
 
+<p>
+  HTML5 • CSS3 • JavaScript • Angular
+</p>
+
 ### 📱 Mobile
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="65" />
+</p>
+
+<p>
+  Ionic
 </p>
 
 ### ⚙️ Back-End
@@ -32,10 +40,18 @@ Desenvolvedor focado em criação de aplicações modernas, responsivas e escal�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" />
 </p>
 
+<p>
+  PHP • Firebase
+</p>
+
 ### 🗄️ Banco de Dados
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" />
+</p>
+
+<p>
+  MySQL
 </p>
 
 ### 📊 Gerenciamento de Projetos
@@ -44,12 +60,20 @@ Desenvolvedor focado em criação de aplicações modernas, responsivas e escal�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" />
 </p>
 
+<p>
+  GitHub
+</p>
+
 ### 🛠️ Infraestrutura
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" />
+</p>
+
+<p>
+  Git • Linux • AWS
 </p>
 
 ---
@@ -76,4 +100,3 @@ Desenvolvedor focado em criação de aplicações modernas, responsivas e escal�
 
 * 📧 Email: [igor.oliveira.7780@gmail.com](mailto:igor.oliveira.7780@gmail.com)
 * 💼 LinkedIn: [www.linkedin.com/in/igor-oliveira-15b949320](http://www.linkedin.com/in/igor-oliveira-15b949320)
-
