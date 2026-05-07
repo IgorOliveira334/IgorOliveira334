@@ -13,33 +13,44 @@ Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Fr
 ### 🎨 Front-End
 
 <p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="70" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="70" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="70" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" width="70" />
+  <img src="https://skillicons.dev/icons?i=html" width="65" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" />
+  <img src="https://skillicons.dev/icons?i=js" width="65" />
+  <img src="https://skillicons.dev/icons?i=angular" width="65" />
 </p>
 
 ### 📱 Mobile
 
 <p>
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" width="70" />
+  <img src="https://skillicons.dev/icons?i=ionic" width="65" />
 </p>
 
 ### ⚙️ Back-End
 
 <p>
-  <img s
+  <img src="https://skillicons.dev/icons?i=php" width="65" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="65" />
+</p>
 
-## 📚 Conhecimentos
+### 🗄️ Banco de Dados
 
-* Desenvolvimento Web e Mobile
-* Programação Orientada a Objetos
-* Banco de Dados
-* Engenharia de Software
-* Infraestrutura e Cloud Computing
-* Redes de Computadores
-* Metodologias Ágeis
-* Gestão de Projetos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="65" />
+</p>
+
+### 📊 Gerenciamento de Projetos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="65" />
+</p>
+
+### 🛠️ Infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="65" />
+  <img src="https://skillicons.dev/icons?i=linux" width="65" />
+  <img src="https://skillicons.dev/icons?i=aws" width="65" />
+</p>
 
 ---
 
