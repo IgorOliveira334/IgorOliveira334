@@ -1,14 +1,10 @@
-<h1 align="center">Igor Oliveira</h1>
+# Igor Oliveira
 
-<h3 align="center">💻 Full Stack Developer | 📱 Mobile Developer</h3>
+## Full Stack Developer | Mobile Developer
 
-<p align="center">
 Desenvolvedor apaixonado por tecnologia, com conhecimentos em desenvolvimento Front-End, Back-End, Mobile, Infraestrutura e Gestão de Projetos.
-</p>
 
-<p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, desenvolvendo soluções modernas, escaláveis e focadas em boas práticas de desenvolvimento.
-</p>
 
 ---
 
